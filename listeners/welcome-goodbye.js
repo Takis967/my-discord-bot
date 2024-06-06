@@ -12,7 +12,7 @@ module.exports = (client) => {
         const embed = new EmbedBuilder()
             .setColor('#A5A819')
             .setTitle("Welcome to Peter's Private Server!")
-            .setDescription(`Welcome ${member}! We're glad to have you here.\nMake sure to read server <#954853634829582357>.\nAnd go to <#954853634829582361> and grab free access for DJ role!`)
+            .setDescription(`Welcome ${member}! We're glad to have you here.\nMake sure to read server <#0000000000000000>.\nAnd go to <#0000000000000000> and grab free access for DJ role!`)
             .setThumbnail(member.user.displayAvatarURL())
             .setTimestamp();
 
